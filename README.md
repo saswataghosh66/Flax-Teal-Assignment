@@ -1,1 +1,1 @@
-# Flax-Teal-Assignment
+The Python implementation is provided in the code.ipynb file, while the Rust implementation is in code.rs. The final report, along with the results and analysis, is available in the Final Report and Output file. The comparison plot between the exact and Euler solutions is included as plot.png, and all output data has been saved in solution.csv.
